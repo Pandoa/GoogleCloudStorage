@@ -1,8 +1,7 @@
 ![logo](_media/icon.svg)
 
-# Google Text-To-Speech <small>1.2.1</small>
+# Google Cloud Storage <small>1.2.1</small>
 
-> Google Text-To-Speech for Unreal Engine
+> Google Cloud Storage for Unreal Engine
 
-[Marketplace](https://github.com/docsifyjs/docsify/)
 [Support](mailto:pandores.marketplace@gmail.com)
